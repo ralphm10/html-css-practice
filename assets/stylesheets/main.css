@@ -218,7 +218,9 @@ p a {
 .hero {
   line-height: 44px;
   padding: 22px 80px 66px 80px;
+  text-align: center;
 }
+
 .hero h2 {
   font-size: 36px;
 }
@@ -281,4 +283,14 @@ p a {
 .primary-footer small {
   float: left;
   font-weight: 400;
+}
+
+/*
+  ========================================
+  Navigation
+  ========================================
+*/
+
+.nav {
+  text-align: right;
 }
