@@ -180,12 +180,25 @@ h5 {
   text-transform: uppercase;
 }
 
-
 strong {
   font-weight: 400;
 }
 cite, em {
   font-style: italic;
+}
+
+/*
+  ========================================
+  Leads
+  ========================================
+*/
+
+.lead {
+  text-align: center;
+}
+.lead p {
+  font-size: 21px;
+  line-height: 33px;
 }
 
 /*
