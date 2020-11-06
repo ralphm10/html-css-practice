@@ -247,7 +247,6 @@ p a {
   margin: 0;
   text-transform: uppercase;
 }
-
 .btn-alt {
   border: 1px solid #fff;
   padding: 10px 30px;
@@ -269,23 +268,19 @@ p a {
   padding: 22px 80px 66px 80px;
   text-align: center;
 }
-
 .hero h2 {
   font-size: 36px;
 }
-
 .hero p {
   font-size: 24px;
   font-weight: 100;
 }
-
 .teaser img {
   border-radius: 5px;
   display: block;
   margin-bottom: 22px;
   max-width: 100%
 }
-
 
 /*
   ========================================
@@ -303,12 +298,10 @@ p a {
   padding: 40px 0 22px 0;
   text-transform: uppercase;
 }
-
 .tagline {
   margin: 66px 0 22px 0;
   text-align: right;
 }
-
 .primary-nav {
   font-size: 14px;
   font-weight: 400;
@@ -325,12 +318,10 @@ p a {
 .primary-footer small {
   float: left;
 }
-
 .primary-footer {
   padding-bottom: 44px;
   padding-top: 44px;
 }
-
 .primary-footer {
   color: #648880;
   font-size: 14px;
@@ -370,9 +361,31 @@ p a {
   border: 1px solid #dfe2e5;
   border-radius: 5px;
   margin-top: 88px;
-  padding: 22px 0;
+  padding-bottom: 22px;
   text-align: center;
+}
+.speaker-info img {
+  border-radius: 50%;
+  height: 130px;
+  margin: -66px 0 22px 0;
+  vertical-align: top;
 }
 .speaker {
   margin-bottom: 44px;
+}
+
+/*
+  ========================================
+  Venue
+  ========================================
+*/
+
+.venue-theatre {
+  margin-bottom: 66px;
+}
+.venue-hotel {
+  margin-bottom: 22px;
+}
+.venue-map {
+  height: 264px;
 }
